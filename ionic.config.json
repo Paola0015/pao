@@ -1,0 +1,8 @@
+{
+  "name": "pao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2bc82418"
+}
